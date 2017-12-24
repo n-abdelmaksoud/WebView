@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web View</string>
+
+    <string name="internet_disconnected">Your Internet Network is disconnected</string>
+</resources>
